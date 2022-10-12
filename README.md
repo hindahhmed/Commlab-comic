@@ -10,4 +10,4 @@ Our group decided to split the work amongst ourselves. Vladmir and Zion worked i
 
 ## REFLECTION 
 
-While our initial idea was to create a comic story revolving around the 9 lives of a cat, the idea was too complex and exceeded the 6 panel limit. Therefore, we decided to have a cat and mouse story. The overall comic was what we expected, and met our goals, as it was interactive and told a story. 
+While our initial idea was to create a comic story revolving around the 9 lives of a cat, the idea was too complex and exceeded the 6 panel limit. Therefore, we decided to have a cat and mouse story. The overall comic was what we expected, and met our goals, as it was interactive and told a story. Althrough creating the comic was very time-consuming and stressful, it was worth it when the final version of complete, and we were able to see our idea come to life.  
