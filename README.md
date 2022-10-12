@@ -6,7 +6,7 @@ Our project consists on a comic and interactive game about a cat and a mouse. Wh
 
 ## PROCESS 
 
-Our group decided to split the work amongst outselves. Vladmir and Zion worked in the code, while Hind and Raya worked on the visuals. 
+Our group decided to split the work amongst ourselves. Vladmir and Zion worked in the code, while Hind and Raya worked on the visuals. I worked on the viduals, and drew the cat in multiple different forms, e.g. Happy, Sad, Moving left and right. Alongside this, I created the speech bubbles with the dialogue as well as some of the backgrounds and home page. I utilized an array of programms for the viduals, including procreate and illustrator. I created many drawings of the cat and mouse, but only a few were utilized for the final version of the comic. 
 
 ## REFLECTION 
 
