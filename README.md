@@ -6,7 +6,7 @@ Our project consists on a comic and interactive game about a cat and a mouse. Wh
 
 ## PROCESS 
 
-Our group decided to split the woek amongst outselves. Vladmir and Zion worked in the code, while Hind and Raya worked on the viduals. 
+Our group decided to split the work amongst outselves. Vladmir and Zion worked in the code, while Hind and Raya worked on the visuals. 
 
 ## REFLECTION 
 
